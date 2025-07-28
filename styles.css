@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: rgb(89, 90, 106);
+  background-color: rgb(68, 68, 73);
   color: white;
   height: 100vh;
   display: flex;
@@ -18,7 +18,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  background-color: rgb(69, 64, 64);
+ background-color: rgb(85, 83, 83);
   padding: 20px;
   border-radius: 5px;
   width: 50%;
@@ -94,7 +94,7 @@ h4 {
 }
 
 .card {
-  background-color: rgb(230, 146, 44);
+  background-color: rgb(60, 165, 41);
   width: 40%;
   max-width: 290px;
   padding: 10px;
