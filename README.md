@@ -5,4 +5,6 @@ step3:  Run the Server(npm start)
 You should see:    
 ✅ Server running on port 3000
 
- final step: run indexx.html using live server(in VS Code)
+ final step: run indexx.html using live server(in VS Code) 
+ 
+<img width="880" height="834" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/e99580ed-b8c3-4932-81fa-bec40e7d2a81" />
