@@ -1,5 +1,5 @@
 **TO RUN THIS**  
-
+                    |
   step1: clone this repo to your local device   
                     |
 step2: in terminal type (npm install){This will read your package.json and install express, cors, etc.}     
