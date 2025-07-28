@@ -6,5 +6,6 @@ You should see:
 ✅ Server running on port 3000
 
  final step: run indexx.html using live server(in VS Code) 
+ and here you go!! 
  
-<img width="880" height="834" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/e99580ed-b8c3-4932-81fa-bec40e7d2a81" />
+<img width="400" height="400" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/e99580ed-b8c3-4932-81fa-bec40e7d2a81" />
