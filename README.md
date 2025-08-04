@@ -55,8 +55,9 @@ node app.js
 
 ```
 Visit http://localhost:3000 in your browser to use the app.
+---
 
- 🎯 Purpose
+ ## 🎯 Purpose
 
  * This project was built to:
 
@@ -69,18 +70,23 @@ Visit http://localhost:3000 in your browser to use the app.
 * Understand GraphQL queries
 
 * Showcase backend + templating skills in resume
+* 
+---
 
-🙋‍♀️ Author
+## 🙋‍♀️ Author
+
 Niharika Hasija
 🌐 GitHub
 
-⭐️ Show Your Support
+---
+## ⭐️ Show Your Support
+
 If you liked the project, consider giving it a ⭐️ on GitHub!
 
 
 
 
-
+---
 *** BOTTOM LINE***
 
                       **TO RUN THIS**  
